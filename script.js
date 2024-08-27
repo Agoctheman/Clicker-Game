@@ -24,4 +24,3 @@ circle.addEventListener('click', updateScore);
 
 // Initialize circle color
 updateColor();
-
